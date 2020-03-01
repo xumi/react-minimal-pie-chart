@@ -364,9 +364,7 @@ exports[`Dist bundle is unchanged 1`] = `
     return paths;
   }
 
-  var ReactMinimalPieChart =
-  /*#__PURE__*/
-  function (_Component) {
+  var ReactMinimalPieChart = /*#__PURE__*/function (_Component) {
     _inheritsLoose(ReactMinimalPieChart, _Component);
 
     function ReactMinimalPieChart(props) {
